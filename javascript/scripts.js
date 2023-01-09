@@ -160,7 +160,7 @@ document.addEventListener("click", (e) => {
 });
 
 cancelEditBtn.addEventListener("click", (e) => {
-  e.preventDefault();s
+  e.preventDefault();
   toggleForms();
 });
 
